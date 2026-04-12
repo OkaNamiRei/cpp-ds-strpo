@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.16)
+project(simple_codec LANGUAGES CXX)
+set(CMAKE_CXX_STANDARD 17)
+add_library(simple_codec STATIC src/simple_codec.cpp)
+target_include_directories(simple_codec PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/include)
