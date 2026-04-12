@@ -1,0 +1,36 @@
+# build artifacts
+build/
+build-*/
+build_*/
+out/
+cmake-build-*/
+Testing/
+external/simple_codec/build/
+prebuilt/simple_codec/*.a
+prebuilt/simple_codec/*.lib
+prebuilt/simple_codec/*.so
+prebuilt/simple_codec/*.dll
+
+# IDE and editors
+.vscode/
+.idea/
+.vs/
+*.vcxproj*
+*.sln
+*.user
+*.suo
+*.opensdf
+*.db
+
+# compilers / linkers / outputs
+*.o
+*.obj
+*.exe
+*.out
+*.ilk
+*.pdb
+*.dSYM/
+*.stackdump
+
+# docker leftovers
+*.tar

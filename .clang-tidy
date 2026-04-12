@@ -1,0 +1,4 @@
+Checks: '-*,bugprone-*,clang-analyzer-*,cppcoreguidelines-*,performance-*'
+WarningsAsErrors: ''
+HeaderFilterRegex: 'include/.*|src/.*|tests/.*|debug_examples/.*'
+FormatStyle: none
