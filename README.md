@@ -104,3 +104,11 @@ ctest --test-dir build --output-on-failure
 - собственный `Dockerfile`;
 - простая C++ программа внутри контейнера;
 - команды для сборки и запуска образа.
+
+- ## Быстрые команды для дополнительных работ
+
+### Dynamic libraries
+```bash
+cmake -S optional_dynamic -B optional_dynamic/build -G "Visual Studio 18 2026" -A x64
+cmake --build optional_dynamic/build --config Debug
+.\optional_dynamic\build\Debug\dynamic_loader.exe
