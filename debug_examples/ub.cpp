@@ -1,9 +1,9 @@
 #include <iostream>
-#include <climits>
 
 int main() {
-    int x = INT_MAX;
-    std::cout << (x + 1) << '
-';
-    return 0;
+    int x;
+    if (x > 0) {
+        std::cout << "x is positive" << std::endl;
+    }
+    return x;
 }
