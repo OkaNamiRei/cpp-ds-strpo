@@ -4,26 +4,18 @@
 
 - `segfault.cpp` — обращение по нулевому указателю;
 - `leak.cpp` — утечка памяти;
-- `ub.cpp` — undefined behaviour;
+- `ub.cpp` — undefined behaviour через чтение неинициализированной переменной;
 - `link_error_decl.hpp` + `link_error_main.cpp` — ошибка линковки.
 
-## Как показывать
+## Что нужно показать на защите
 
-### Linux / WSL
-```bash
-g++ -g -O0 segfault.cpp -o segfault
-./segfault
+1. Код каждого примера.
+2. Почему ошибка возникает.
+3. Каким инструментом она обнаруживается.
+4. Обязательную демонстрацию статического анализа (`clang-tidy`).
 
-g++ -g -O0 -fsanitize=address leak.cpp -o leak
-./leak
+## Сборка обычных примеров на Windows
 
-g++ -g -O0 -fsanitize=undefined ub.cpp -o ub
-./ub
-
-g++ -g -O0 link_error_main.cpp -o link_error
-```
-
-### Что объяснять
-- почему именно эта ошибка возникает;
-- каким инструментом она ловится;
-- что нужно исправить в коде.
+```powershell
+cmake -S debug_examples -B debug_examples/build -G "Visual Studio 18 2026" -A x64
+cmake --build debug_examples/build --config Debug
