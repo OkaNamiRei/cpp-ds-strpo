@@ -84,3 +84,23 @@ ctest --test-dir build-asan --output-on-failure
 ./build/lab3_demo
 ctest --test-dir build --output-on-failure
 ```
+## Дополнительные лабораторные
+
+### СТРПО-3 (дополнительный этап)
+В папке `optional_dynamic/` находится демонстрация двух способов работы с динамическими библиотеками:
+- неявное связывание;
+- явное связывание во время выполнения.
+
+### СТРПО-4
+В папке `debug_examples/` находятся минимальные примеры для:
+- segmentation fault;
+- memory leak;
+- link error;
+- undefined behaviour;
+- статического анализа через `clang-tidy`.
+
+### СТРПО-7
+В папке `docker/` находится Docker-демо:
+- собственный `Dockerfile`;
+- простая C++ программа внутри контейнера;
+- команды для сборки и запуска образа.
