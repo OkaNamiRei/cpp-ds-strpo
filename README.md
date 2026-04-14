@@ -112,3 +112,37 @@ ctest --test-dir build --output-on-failure
 cmake -S optional_dynamic -B optional_dynamic/build -G "Visual Studio 18 2026" -A x64
 cmake --build optional_dynamic/build --config Debug
 .\optional_dynamic\build\Debug\dynamic_loader.exe
+Debug examples
+cmake -S debug_examples -B debug_examples/build -G "Visual Studio 18 2026" -A x64
+cmake --build debug_examples/build --config Debug
+Docker
+cd docker
+docker build -t strpo7-ascii-cat .
+docker run --rm strpo7-ascii-cat
+---
+
+# Что сделать в `docs/`
+
+## Сделай файл `docs/README.md`
+
+Вот готовый текст:
+
+```md
+# Навигация по документам
+
+## СТРПО-3
+- `strpo3/STRPO_3_5_guide_detailed.docx`
+- `strpo3/STRPO_3_5_oral_cheatsheet.docx`
+- `strpo3/STRPO_optional_dynamic_lab3_guide.docx`
+
+## СТРПО-4
+- `strpo4/STRPO_4_debug_analysis_guide.docx`
+- `strpo4/STRPO_4_oral_cheatsheet.docx`
+
+## СТРПО-7
+- `strpo7/STRPO_7_docker_guide.docx`
+- `strpo7/STRPO_7_docker_oral_cheatsheet.docx`
+
+## Курсовая
+- `course/tictactoe_algorithm_agreement_draft_v2.docx`
+- `course/tictactoe_algorithm_short_pitch_v2.docx`
