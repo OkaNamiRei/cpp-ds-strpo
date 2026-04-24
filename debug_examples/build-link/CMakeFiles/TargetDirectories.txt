@@ -1,6 +1,0 @@
-C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/debug_examples/build-link/CMakeFiles/segfault_demo.dir
-C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/debug_examples/build-link/CMakeFiles/leak_demo.dir
-C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/debug_examples/build-link/CMakeFiles/ub_demo.dir
-C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/debug_examples/build-link/CMakeFiles/link_error_demo.dir
-C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/debug_examples/build-link/CMakeFiles/ALL_BUILD.dir
-C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/debug_examples/build-link/CMakeFiles/ZERO_CHECK.dir
