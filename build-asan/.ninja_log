@@ -1,0 +1,22 @@
+# ninja log v6
+88	563	7977240236412756	CMakeFiles/ds_core.dir/src/base32_codec.cpp.obj	6c22d6064ee23f3d
+102	566	7977240236547688	CMakeFiles/ds_core.dir/src/rle_codec.cpp.obj	ba7bf4bcfc9b7fcf
+134	1104	7977240236871865	CMakeFiles/ds_core.dir/src/bool_array.cpp.obj	3e87ab5a378699a8
+54	1121	7977240236071340	CMakeFiles/ds_core.dir/src/barrel.cpp.obj	718a68af903dcc9e
+108	1143	7977240236607459	CMakeFiles/ds_core.dir/src/rle_file.cpp.obj	76426f0377b1fd64
+61	1045	7977240236139917	CMakeFiles/ds_core.dir/src/matrix.cpp.obj	89bad026f1645430
+95	1161	7977240236480781	CMakeFiles/ds_core.dir/src/base32_file.cpp.obj	1071bb7df55306f6
+114	1167	7977240236677434	CMakeFiles/ds_core.dir/src/composed_files.cpp.obj	c15ef88e20949659
+74	1479	7977240236271256	CMakeFiles/ds_core.dir/src/text_wrapper.cpp.obj	602fb9c16364e248
+121	1465	7977240236744733	CMakeFiles/ds_core.dir/src/worker_db.cpp.obj	34041ba2d19f1b86
+67	1434	7977240236208156	CMakeFiles/ds_core.dir/src/my_string.cpp.obj	4cf5d7dfdfc22f01
+128	1497	7977240236808569	CMakeFiles/ds_core.dir/src/notification.cpp.obj	6a1ac1fe6f5a3f76
+141	1457	7977240236939272	CMakeFiles/lab1_demo.dir/apps/lab1_demo.cpp.obj	f1ecf922ddf4db18
+36	1493	7977240235889069	CMakeFiles/ds_core.dir/src/rect.cpp.obj	2775abdeafd2ba5f
+81	1164	7977240236344697	CMakeFiles/ds_core.dir/src/base_file.cpp.obj	c5024b0a438ad8b1
+44	839	7977241027541104	CMakeFiles/lab3_demo.dir/apps/lab3_demo.cpp.obj	c25865fa0e798509
+1498	1607	7977240250508622	ds_core.lib	bfe15b8f00b4120f
+1607	2139	7977240251604775	lab1_demo.exe	1d76fec93549936c
+27	823	7977240754848029	CMakeFiles/lab2_demo.dir/apps/lab2_demo.cpp.obj	398bd1ff953da34a
+825	1347	7977240762818484	lab2_demo.exe	637dee529f7766fd
+841	1372	7977241035508204	lab3_demo.exe	857b4fbbdc10e912

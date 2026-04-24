@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Zver\Downloads\final_course_bundle_revised_checked\final_course_bundle_revised\repo\src\rect.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Zver\Downloads\final_course_bundle_revised_checked\final_course_bundle_revised\repo\src\barrel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Zver\Downloads\final_course_bundle_revised_checked\final_course_bundle_revised\repo\src\matrix.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Zver\Downloads\final_course_bundle_revised_checked\final_course_bundle_revised\repo\src\my_string.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Zver\Downloads\final_course_bundle_revised_checked\final_course_bundle_revised\repo\src\text_wrapper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Zver\Downloads\final_course_bundle_revised_checked\final_course_bundle_revised\repo\src\base_file.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Zver\Downloads\final_course_bundle_revised_checked\final_course_bundle_revised\repo\src\base32_codec.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Zver\Downloads\final_course_bundle_revised_checked\final_course_bundle_revised\repo\src\base32_file.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Zver\Downloads\final_course_bundle_revised_checked\final_course_bundle_revised\repo\src\rle_codec.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Zver\Downloads\final_course_bundle_revised_checked\final_course_bundle_revised\repo\src\rle_file.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Zver\Downloads\final_course_bundle_revised_checked\final_course_bundle_revised\repo\src\composed_files.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Zver\Downloads\final_course_bundle_revised_checked\final_course_bundle_revised\repo\src\worker_db.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Zver\Downloads\final_course_bundle_revised_checked\final_course_bundle_revised\repo\src\notification.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Zver\Downloads\final_course_bundle_revised_checked\final_course_bundle_revised\repo\src\bool_array.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Zver\Downloads\final_course_bundle_revised_checked\final_course_bundle_revised\repo\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D38F007A-5191-3565-BD32-A578E8243080}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

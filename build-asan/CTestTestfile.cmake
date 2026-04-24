@@ -1,0 +1,34 @@
+# CMake generated Testfile for 
+# Source directory: C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo
+# Build directory: C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/build-asan
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+add_test(test_rect_basic_methods "C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/build-asan/test_rect_basic_methods.exe")
+set_tests_properties(test_rect_basic_methods PROPERTIES  _BACKTRACE_TRIPLES "C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/CMakeLists.txt;82;add_test;C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/CMakeLists.txt;0;")
+add_test(test_rect_properties "C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/build-asan/test_rect_properties.exe")
+set_tests_properties(test_rect_properties PROPERTIES  _BACKTRACE_TRIPLES "C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/CMakeLists.txt;82;add_test;C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/CMakeLists.txt;0;")
+add_test(test_rect_operations "C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/build-asan/test_rect_operations.exe")
+set_tests_properties(test_rect_operations PROPERTIES  _BACKTRACE_TRIPLES "C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/CMakeLists.txt;82;add_test;C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/CMakeLists.txt;0;")
+add_test(test_bounding_rect "C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/build-asan/test_bounding_rect.exe")
+set_tests_properties(test_bounding_rect PROPERTIES  _BACKTRACE_TRIPLES "C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/CMakeLists.txt;82;add_test;C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/CMakeLists.txt;0;")
+add_test(test_barrel "C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/build-asan/test_barrel.exe")
+set_tests_properties(test_barrel PROPERTIES  _BACKTRACE_TRIPLES "C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/CMakeLists.txt;82;add_test;C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/CMakeLists.txt;0;")
+add_test(test_text_wrapper "C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/build-asan/test_text_wrapper.exe")
+set_tests_properties(test_text_wrapper PROPERTIES  _BACKTRACE_TRIPLES "C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/CMakeLists.txt;82;add_test;C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/CMakeLists.txt;0;")
+add_test(test_file_roundtrip "C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/build-asan/test_file_roundtrip.exe")
+set_tests_properties(test_file_roundtrip PROPERTIES  _BACKTRACE_TRIPLES "C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/CMakeLists.txt;82;add_test;C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/CMakeLists.txt;0;")
+add_test(test_large_file_roundtrip "C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/build-asan/test_large_file_roundtrip.exe")
+set_tests_properties(test_large_file_roundtrip PROPERTIES  _BACKTRACE_TRIPLES "C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/CMakeLists.txt;82;add_test;C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/CMakeLists.txt;0;")
+add_test(test_base_file_move "C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/build-asan/test_base_file_move.exe")
+set_tests_properties(test_base_file_move PROPERTIES  _BACKTRACE_TRIPLES "C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/CMakeLists.txt;82;add_test;C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/CMakeLists.txt;0;")
+add_test(test_my_string_lab3 "C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/build-asan/test_my_string_lab3.exe")
+set_tests_properties(test_my_string_lab3 PROPERTIES  _BACKTRACE_TRIPLES "C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/CMakeLists.txt;82;add_test;C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/CMakeLists.txt;0;")
+add_test(test_matrix_lab3 "C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/build-asan/test_matrix_lab3.exe")
+set_tests_properties(test_matrix_lab3 PROPERTIES  _BACKTRACE_TRIPLES "C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/CMakeLists.txt;82;add_test;C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/CMakeLists.txt;0;")
+add_test(test_worker_db "C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/build-asan/test_worker_db.exe")
+set_tests_properties(test_worker_db PROPERTIES  _BACKTRACE_TRIPLES "C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/CMakeLists.txt;82;add_test;C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/CMakeLists.txt;0;")
+add_test(test_notification_queues "C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/build-asan/test_notification_queues.exe")
+set_tests_properties(test_notification_queues PROPERTIES  _BACKTRACE_TRIPLES "C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/CMakeLists.txt;82;add_test;C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/CMakeLists.txt;0;")
+add_test(test_bool_array "C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/build-asan/test_bool_array.exe")
+set_tests_properties(test_bool_array PROPERTIES  _BACKTRACE_TRIPLES "C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/CMakeLists.txt;82;add_test;C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/CMakeLists.txt;0;")
