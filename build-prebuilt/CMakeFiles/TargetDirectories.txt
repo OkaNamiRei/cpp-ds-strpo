@@ -1,7 +1,0 @@
-C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/build-prebuilt/CMakeFiles/ds_core.dir
-C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/build-prebuilt/CMakeFiles/ds_external_codec.dir
-C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/build-prebuilt/CMakeFiles/lab1_demo.dir
-C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/build-prebuilt/CMakeFiles/lab2_demo.dir
-C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/build-prebuilt/CMakeFiles/lab3_demo.dir
-C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/build-prebuilt/CMakeFiles/ALL_BUILD.dir
-C:/Users/Zver/Downloads/final_course_bundle_revised_checked/final_course_bundle_revised/repo/build-prebuilt/CMakeFiles/ZERO_CHECK.dir
