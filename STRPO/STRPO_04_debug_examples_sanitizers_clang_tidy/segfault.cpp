@@ -2,7 +2,7 @@
 
 int main() {
     int* p = nullptr;
-    std::cout << *p << '
-';
+    std::cout << "About to dereference a null pointer..." << '\n';
+    std::cout << *p << '\n'; // намеренный segfault / access violation
     return 0;
 }

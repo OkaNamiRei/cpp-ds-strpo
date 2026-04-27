@@ -53,3 +53,12 @@ ctest --test-dir build --output-on-failure
 2. Потом СД-3 по той же кодовой базе.
 3. Остальные СД-лабы показывать очно из папок `SD/`, если останется время или если попросят.
 4. СТРПО-3/4/5/7 — как запас/допы, не пихать первыми.
+
+## Обновление ревизии СТРПО 1-5
+
+Добавлена ревизия первых лабораторных СТРПО:
+
+- `STRPO/STRPO_1_5_REVISION_AND_DEFENSE_GUIDE.md` — что открывать и что говорить на защите;
+- `STRPO/STRPO_03_cmake_static_library_and_find_library/optional_dynamic/` — необязательная часть с динамическими библиотеками;
+- `STRPO/STRPO_04_debug_examples_sanitizers_clang_tidy/CMakeLists.txt` — сборка примеров отладки;
+- `.github/workflows/ci.yml` — root workflow для проверки СТРПО-5 через GitHub Actions.

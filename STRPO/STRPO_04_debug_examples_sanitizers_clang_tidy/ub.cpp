@@ -1,9 +1,12 @@
 #include <iostream>
-#include <climits>
 
 int main() {
-    int x = INT_MAX;
-    std::cout << (x + 1) << '
-';
+    int x;
+    // Намеренное undefined behaviour: чтение неинициализированной переменной.
+    if (x > 0) {
+        std::cout << "x is positive" << '\n';
+    } else {
+        std::cout << "x is not positive" << '\n';
+    }
     return 0;
 }
